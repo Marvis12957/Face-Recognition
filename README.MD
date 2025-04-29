@@ -144,7 +144,7 @@ python 7_infer_svm.py
    - Cosine similarity trong cùng nhãn nên < 0.9.
    - Xem output của `4_embedding.py` để kiểm tra.
 2. **Số lượng ảnh**:
-   - Nên có ít nhất 200 ảnh mỗi nhãn để finetuning và huấn luyện hiệu quả.
+   - Nên có ít nhất 50 ảnh mỗi nhãn để finetuning và huấn luyện hiệu quả.
 3. **Điều kiện ánh sáng**:
    - Khi nhận diện thời gian thực (`7_infer_svm.py`), đảm bảo ánh sáng tương tự như khi thu thập ảnh.
 4. **Debugging**:
