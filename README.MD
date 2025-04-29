@@ -85,7 +85,7 @@ python 1_wedcam_capture_auto.py
 - Ảnh được lưu vào `raw_images/{name}/`.
 
 **Lưu ý**:
-- Thu thập 200-300 ảnh mỗi người.
+- Thu thập 50 ảnh mỗi người.
 - Thay đổi ánh sáng (tự nhiên, đèn trắng, đèn vàng), góc độ (nhìn thẳng, nghiêng 30-45°), biểu cảm (bình thường, cười), và chuyển động nhẹ để tăng tính đa dạng.
 
 ### Bước 2: Cắt khuôn mặt
